@@ -2,19 +2,10 @@
 
 Bienvenidos al Grupo GNU/Linux Universidad Distrital Ciencias
 
-<div style="display: inline_block">
-    <a href="https://github.com/GLUDCiencias">
-        <img align="center" alt="Kokopele" height="140" width="140" style="float: right; margin-right: 350px;" src="https://github.com/GLUDCiencias/GLUDCiencias/blob/main/logo_ciencias/GLUD_LOGO.svg">
-    </a>
-</div>
-
 
 ## Proyectos:
 
-- <div style="display: inline_block"><br>
-    <a href="https://github.com/GLUDCiencias/GNUBIES"><img align="center" alt="AmstradCPC" height="140" width="140" src="https://github.com/GLUDCiencias/GLUDCiencias/blob/main/logo_ciencias/LogoGludV2-W.png">
-</div>
-
+- [GNUBIES](https://github.com/GLUDCiencias/GNUBIES)
 - [Matemáticas](https://github.com/GLUDCiencias/Matematicas)
 - [Física](https://github.com/GLUDCiencias/Fisica)
 - [Química](https://github.com/GLUDCiencias/Quimica)

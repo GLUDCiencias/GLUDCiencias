@@ -1,17 +1,22 @@
 # GLUD Ciencias
 
-LOGO Kokopelle-Universidad
+<div style="display: inline_block"><br>
+    <a href="https://github.com/GLUDCiencias"><img align="center" alt="AmstradCPC" height="240" width="240" src="https://github.com/GLUDCiencias/GLUDCiencias/blob/main/logo_ciencias/GLUD_LOGO.svg">
+</div>
 
 Bienvenidos al Grupo GNU/Linux Universidad Distrital Ciencias
 
 ## Proyectos:
 
-- [LOGO GNUBIES] GNUBIES
+- <div style="display: inline_block"><br>
+    <a href="https://github.com/GLUDCiencias/GNUBIES"><img align="center" alt="AmstradCPC" height="240" width="240" src="https://github.com/GLUDCiencias/GLUDCiencias/blob/main/logo_ciencias/LogoGludV2-W.png">
+</div>
 
-- [LOGO PI] Matemáticas
-- [LOGO Atomo] Física
-- [LOGO Embudo] Química
-- [LOGO ADN] Biología
+
+- [https://github.com/GLUDCiencias/Matematicas](Matemáticas)
+- [https://github.com/GLUDCiencias/Fisica](Física)
+- [https://github.com/GLUDCiencias/Quimica](Química)
+- [https://github.com/GLUDCiencias/Biologia](Biología)
 
 
 ## Misión 🌱

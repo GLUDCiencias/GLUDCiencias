@@ -4,7 +4,7 @@ Bienvenidos al Grupo GNU/Linux Universidad Distrital Ciencias
 
 <div style="display: inline_block">
     <a href="https://github.com/GLUDCiencias">
-        <img align="center" alt="Kokopele" height="140" width="140" style="float: right; margin-right: 150px;" src="https://github.com/GLUDCiencias/GLUDCiencias/blob/main/logo_ciencias/GLUD_LOGO.svg">
+        <img align="center" alt="Kokopele" height="140" width="140" style="float: right; margin-right: 350px;" src="https://github.com/GLUDCiencias/GLUDCiencias/blob/main/logo_ciencias/GLUD_LOGO.svg">
     </a>
 </div>
 

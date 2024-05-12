@@ -1,22 +1,23 @@
 # GLUD Ciencias
 
+Bienvenidos al Grupo GNU/Linux Universidad Distrital Ciencias
+
 <div style="display: inline_block"><br>
-    <a href="https://github.com/GLUDCiencias"><img align="center" alt="AmstradCPC" height="240" width="240" src="https://github.com/GLUDCiencias/GLUDCiencias/blob/main/logo_ciencias/GLUD_LOGO.svg">
+    <a href="https://github.com/GLUDCiencias"><img align="center" alt="AmstradCPC" height="140" width="140" src="https://github.com/GLUDCiencias/GLUDCiencias/blob/main/logo_ciencias/GLUD_LOGO.svg">
 </div>
 
-Bienvenidos al Grupo GNU/Linux Universidad Distrital Ciencias
+
 
 ## Proyectos:
 
 - <div style="display: inline_block"><br>
-    <a href="https://github.com/GLUDCiencias/GNUBIES"><img align="center" alt="AmstradCPC" height="240" width="240" src="https://github.com/GLUDCiencias/GLUDCiencias/blob/main/logo_ciencias/LogoGludV2-W.png">
+    <a href="https://github.com/GLUDCiencias/GNUBIES"><img align="center" alt="AmstradCPC" height="140" width="140" src="https://github.com/GLUDCiencias/GLUDCiencias/blob/main/logo_ciencias/LogoGludV2-W.png">
 </div>
 
-
-- [https://github.com/GLUDCiencias/Matematicas](Matemáticas)
-- [https://github.com/GLUDCiencias/Fisica](Física)
-- [https://github.com/GLUDCiencias/Quimica](Química)
-- [https://github.com/GLUDCiencias/Biologia](Biología)
+- [Matemáticas](https://github.com/GLUDCiencias/Matematicas)
+- [Física](https://github.com/GLUDCiencias/Fisica)
+- [Química](https://github.com/GLUDCiencias/Quimica)
+- [Biología](https://github.com/GLUDCiencias/Biologia)
 
 
 ## Misión 🌱
